@@ -1,0 +1,22 @@
+.sidebar-offcanvas{
+            height: 100vh;
+            position: fixed;
+            border: 1px;
+            border-right: rgb(0, 0, 0);
+            background-color: white;
+            
+        }
+body{
+    background-color: rgb(172, 229, 254)46, 255;
+            
+            
+}
+.col-md-9.col-lg-10 {
+    height: 100vh;
+    overflow-y: auto;  
+ }
+
+.footer{
+    margin-top: auto;
+    margin-top: 25vh;
+}

@@ -1,0 +1,28 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: transparent;
+    transition: background-color 0.3s ease-in-out;
+    z-index: 9999;
+  }
+  
+  .navbar.scrolled {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  .footer{
+    margin-top: auto;
+    margin-top: 45vh;
+    
+}
+.carousel-image-small{
+  width: 100%;
+  height: 50%;
+}
+.carousel-image{
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.icon{
+  font-size: 2.5rem;
+}
